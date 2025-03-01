@@ -22,10 +22,6 @@ I am a dedicated data analyst with a strong foundation in Python programming and
 - **Twitter**: [Your Twitter Handle]
 - **Personal Website/Portfolio**: [Your Website]
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
