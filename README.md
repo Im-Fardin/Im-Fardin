@@ -16,14 +16,11 @@ I am a dedicated data analyst with a strong foundation in Python programming and
 ## 📫 How to Reach Me
 
 - **Email**: Fardinpiroozi@gmail.com
-- **LinkedIn**: []
-- **Twitter**: []
-- **Personal Website/Portfolio**: []
+- **Twitter**: [https://x.com/Fardin1240784]
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Fardin1240784)
 
 ---
 
