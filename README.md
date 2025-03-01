@@ -1,7 +1,5 @@
 # Hi there, I'm [Fardin] 👋
 
-![Profile Banner](https://github.com/Im-Fardin/Im-Fardin/blob/main/photo_2025-03-01_00-01-40.jpg)
-
 I am a dedicated data analyst with a strong foundation in Python programming and an array of libraries, including NumPy, Pandas, Matplotlib, and Seaborn. Currently, I'm pursuing a degree in Computer Engineering at [Kermanshah Islamic Azad Univercity], where I'm honing my skills and expanding my knowledge in the field.
 ## 🌱 What I'm Currently Learning
 
