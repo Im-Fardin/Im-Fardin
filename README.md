@@ -16,9 +16,9 @@ I am a dedicated data analyst with a strong foundation in Python programming and
 ## 📫 How to Reach Me
 
 - **Email**: Fardinpiroozi@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
-- **Personal Website/Portfolio**: [Your Website]
+- **LinkedIn**: []
+- **Twitter**: []
+- **Personal Website/Portfolio**: []
 
 ## 🔗 Connect with Me
 
