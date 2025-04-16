@@ -11,13 +11,14 @@ I am a passionate machine learning engineer with expertise in Python programming
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages**: Python, SQL
-- **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn
-- **Tools & Platforms**: vscode, SQL Server Management Studio, Jupiter Notebook, Google Colab
+- **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+- **Tools & Platforms**: vscode, SQL Server Management Studio, Jupiter Notebook, Google Colab, Kaggle, VSCode
 
 ## 📫 How to Reach Me
 
 - **Email**: Fardinpiroozi@gmail.com
 - **Twitter**: [https://x.com/Fardin1240784]
+- **kaggle**: [https://www.kaggle.com/fardinp]
 
 ## 🔗 Connect with Me
 
