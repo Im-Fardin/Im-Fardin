@@ -1,6 +1,7 @@
 # Hi there, I'm [Fardin] 👋
 
-I am a dedicated data analyst with a strong foundation in Python programming and an array of libraries, including NumPy, Pandas, Matplotlib, and Seaborn. Currently, I'm pursuing a degree in Computer Engineering at [Kermanshah Islamic Azad Univercity], where I'm honing my skills and expanding my knowledge in the field.
+I am a passionate machine learning engineer with expertise in Python programming and a variety of libraries, including NumPy, Pandas, Matplotlib, and Seaborn. In addition, I specialize in machine learning frameworks such as scikit-learn, TensorFlow, and Keras. Currently, I'm pursuing a degree in Computer Engineering at Kermanshah Islamic Azad University, continually enhancing my technical knowledge and capabilities.
+
 ## 🌱 What I'm Currently Learning
 
 - Advanced data analysis techniques
