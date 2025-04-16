@@ -19,7 +19,7 @@ I am a passionate machine learning engineer with expertise in Python programming
 - **Email**: Fardinpiroozi@gmail.com
 - **Twitter**: [https://x.com/Fardin1240784]
 - **kaggle**: [https://www.kaggle.com/fardinp]
-- **Telegram** @FardinPiroozi
+- **Telegram**: @FardinPiroozi
 ## 🔗 Connect with Me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Fardin1240784)
