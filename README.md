@@ -1,4 +1,4 @@
-# Hi there, I'm [Fardin] 👋
+# Hi there, I'm Fardin
 
 I am a passionate machine learning engineer with expertise in Python programming and a variety of libraries, including NumPy, Pandas, Matplotlib, and Seaborn. In addition, I specialize in machine learning frameworks such as scikit-learn, TensorFlow, and Keras. Currently, I'm pursuing a degree in Computer Engineering at Kermanshah Islamic Azad University, continually enhancing my technical knowledge and capabilities.
 
