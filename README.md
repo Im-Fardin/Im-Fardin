@@ -1,32 +1,23 @@
-# Hi there, I'm Fardin
+Hi there, I'm Fardin
 
-I am a passionate Data Scientist with expertise in Python programming and a variety of libraries, including NumPy, Pandas, Matplotlib, and Seaborn. In addition, I specialize in machine learning frameworks such as scikit-learn, TensorFlow, and Keras. Currently, I'm pursuing a degree in Computer Engineering at Kermanshah Islamic Azad University, continually enhancing my technical knowledge and capabilities.
+🚀 I'm a passionate Data Scientist and Machine Learning enthusiast, currently pursuing my degree in Computer Engineering. I specialize in building intelligent, scalable, and real-world AI solutions—with a special focus on climate control, time series forecasting, and recommender systems.
 
-## 🌱 What I'm Currently Learning
+🛠️ Tech Stack & Tools  
+- **Languages**: Python, SQL  
+- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, FastAPI  
+- **Platforms**: Google Colab, Kaggle, SQL Server Studio, VSCode, Jupyter Notebook  
+- **MLOps & Dev**: Docker, MLflow, GitHub Actions (CI/CD), Streamlit, Scrum/Agile practices  
 
-- Advanced data analysis techniques
-- Machine learning algorithms and DNN
-- Software development best practices
+🌱 Current Interests  
+- Building LLM-based interfaces with fuzzy logic  
+- Deploying AI models with FastAPI & Docker for offline/edge use  
+- Using MLflow for robust experiment tracking and reproducibility  
+- Collaborating on sustainable tech, especially agri-tech innovations  
 
-## 🛠️ Skills & Technologies
+📬 How to Reach Me  
+- Email: [Fardinpiroozi@gmail.com](mailto:Fardinpiroozi@gmail.com)  
+- Twitter: [@Fardin1240784](https://x.com/Fardin1240784)  
+- Kaggle: [fardinp](https://www.kaggle.com/fardinp)  
+- Telegram: @FardinPiroozi
 
-- **Programming Languages**: Python, SQL
-- **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
-- **Tools & Platforms**: vscode, SQL Server Management Studio, Jupiter Notebook, Google Colab, Kaggle, VSCode
-
-## 📫 How to Reach Me
-
-- **Email**: Fardinpiroozi@gmail.com
-- **Twitter**: [https://x.com/Fardin1240784]
-- **kaggle**: [https://www.kaggle.com/fardinp]
-- **Telegram**: @FardinPiroozi
-## 🔗 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Fardin1240784)
-
----
-
-Thanks for stopping by! Feel free to browse through my repositories and don't hesitate to reach out.
-
-
-
+Thanks for stopping by! 🌟 Don’t hesitate to explore my repositories or reach out—I'm always open to collaborations and new challenges!
