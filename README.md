@@ -1,12 +1,14 @@
 Hi there, I'm Fardin
 
-🚀 I'm a passionate Data Scientist and Machine Learning enthusiast, currently pursuing my degree in Computer Engineering. I specialize in building intelligent, scalable, and real-world AI solutions—with a special focus on climate control, time series forecasting, and recommender systems.
+🚀 Data Scientist with hands-on experience developing intelligent, scalable AI solutions in 
+climate control, healthcare, and NLP. Skilled at deploying ML systems that improve 
+performance, optimize outcomes, and deliver measurable results.
 
 🛠️ Tech Stack & Tools  
 - **Languages**: Python, SQL  
 - **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, FastAPI  
 - **Platforms**: Google Colab, Kaggle, SQL Server Studio, VSCode, Jupyter Notebook  
-- **MLOps & Dev**: Docker, MLflow, GitHub Actions (CI/CD), Streamlit, Scrum/Agile practices  
+- **MLOps & Dev**: Docker, MLflow, GitHub Actions (CI/CD), Scrum/Agile practices  
 
 🌱 Current Interests  
 - Building LLM-based interfaces with fuzzy logic  
