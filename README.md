@@ -11,7 +11,7 @@ performance, optimize outcomes, and deliver measurable results.
 - **MLOps & Dev**: Docker, MLflow, GitHub Actions (CI/CD), Scrum/Agile practices  
 
 🌱 Current Interests  
-- Building LLM-based interfaces with fuzzy logic  
+- Building ML-based interfaces with fuzzy logic  
 - Deploying AI models with FastAPI & Docker for offline/edge use  
 - Using MLflow for robust experiment tracking and reproducibility  
 - Collaborating on sustainable tech, especially agri-tech innovations  
