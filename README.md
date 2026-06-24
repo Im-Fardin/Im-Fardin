@@ -42,7 +42,7 @@ I build **AI-powered agents** that automate complex workflows (HR, ATS, lead gen
 I'm always open to collaborations, interesting challenges, or just a good tech chat!
 
 - 📧 Email: [Fardinpiroozi@gmail.com](mailto:Fardinpiroozi@gmail.com)  
-- 💼 LinkedIn: *[(https://www.linkedin.com/in/fardin-deregeh/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bi8Zcy2sSxWmUNqebOlosA%3D%3D)]*  
+- 💼 LinkedIn: *[linkedin.com/in/fardin-deregeh]*  
 - 🐦 Twitter/X: [@Fardin1240784](https://x.com/Fardin1240784)  
 - 🏆 Kaggle: [fardinp](https://www.kaggle.com/fardinp)  
 - 💬 Telegram: @FardinPiroozi  
