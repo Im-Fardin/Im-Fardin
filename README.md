@@ -1,4 +1,4 @@
-# Hi there, I'm Fardin 👋
+# Hi there, I'm Fardin
 
 🚀 **AI Engineer & Data Scientist** | Bridging the gap between scalable enterprise automation and production-grade machine learning.  
 I build **AI-powered agents** that automate complex workflows (HR, ATS, lead gen) AND deploy **heavy ML/DL models**—from research to real-time APIs and offline edge environments. I turn raw data into measurable business impact.
@@ -42,7 +42,7 @@ I build **AI-powered agents** that automate complex workflows (HR, ATS, lead gen
 I'm always open to collaborations, interesting challenges, or just a good tech chat!
 
 - 📧 Email: [Fardinpiroozi@gmail.com](mailto:Fardinpiroozi@gmail.com)  
-- 💼 LinkedIn: *[linkedin.com/in/fardin-deregeh]*  
+- 💼 LinkedIn: [linkedin.com/in/fardin-deregeh](https://www.linkedin.com/in/fardin-piroozi/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BP1UNSibtRu6TDUEOC%2FVyVw%3D%3D) 
 - 🐦 Twitter/X: [@Fardin1240784](https://x.com/Fardin1240784)  
 - 🏆 Kaggle: [fardinp](https://www.kaggle.com/fardinp)  
 - 💬 Telegram: @FardinPiroozi  
